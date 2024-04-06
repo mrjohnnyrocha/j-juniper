@@ -1,0 +1,17 @@
+What is the main purpose of your architectural project?
+Expected response: A description of the project's goal, e.g., attract tourism, enhance local beauty, etc.
+
+Describe the location where you plan to develop this project.
+Expected response: Details about the location, including its current state, surroundings, and any notable features.
+
+What are the key elements you envision for this project?
+Expected response: Specific architectural or design elements, e.g., pathways, water features, vegetation types, etc.
+
+How do you want the project to interact with the existing environment?
+Expected response: Information on how the project should blend with or stand out from its surroundings.
+
+What facilities or amenities should be included in the project?
+Expected response: A list of desired facilities, like playgrounds, benches, lighting, etc.
+
+Please provide any specific design styles or themes you're interested in.
+Expected response: Description of preferred styles or themes, e.g., modern, naturalistic, formal, etc.
